@@ -15,4 +15,7 @@ Sono un grande appassionato dello sport, delle macchine e della tecnologia in ge
 
 Skills
 
-- 
+![icons8-git](https://github.com/dusan39/dusan39/assets/114413164/0dd793bd-0936-42f8-b53b-fc652a8a25e4) ![icons8-html5](https://github.com/dusan39/dusan39/assets/114413164/737147bf-37cd-43b6-81a6-db2d88308608) ![icons8-css](https://github.com/dusan39/dusan39/assets/114413164/58593d77-efee-42eb-a9f7-67f375328dd8) ![icons8-sass](https://github.com/dusan39/dusan39/assets/114413164/4163bbd6-6619-42b1-b9fa-c698ff9cc2b3) ![icons8-javascript](https://github.com/dusan39/dusan39/assets/114413164/1c3f60fa-11a3-445e-ba34-e59e4a51737f) ![icons8-typescript](https://github.com/dusan39/dusan39/assets/114413164/d32d7ab6-9646-424e-b5a3-43edbde8713a) ![icons8-vue-js](https://github.com/dusan39/dusan39/assets/114413164/5d640491-23aa-4253-b5d5-bd5e36ceef23) ![icons8-nuxt-jc](https://github.com/dusan39/dusan39/assets/114413164/0748385d-c700-431d-ab5e-e82b3e5e78cb) 
+
+---
+
